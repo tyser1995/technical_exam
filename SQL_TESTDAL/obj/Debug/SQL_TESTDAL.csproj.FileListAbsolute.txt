@@ -1,0 +1,6 @@
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTDAL\bin\Debug\SQL_TESTDAL.dll.config
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTDAL\bin\Debug\SQL_TESTDAL.dll
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTDAL\bin\Debug\SQL_TESTDAL.pdb
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTDAL\obj\Debug\SQL_TESTDAL.csproj.CoreCompileInputs.cache
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTDAL\obj\Debug\SQL_TESTDAL.dll
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTDAL\obj\Debug\SQL_TESTDAL.pdb

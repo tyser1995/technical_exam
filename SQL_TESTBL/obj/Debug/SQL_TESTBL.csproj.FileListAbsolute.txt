@@ -1,0 +1,10 @@
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\obj\Debug\SQL_TESTBL.csproj.CoreCompileInputs.cache
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\bin\Debug\SQL_TESTBL.dll
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\bin\Debug\SQL_TESTBL.pdb
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\bin\Debug\SQL_TESTDAL.dll
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\bin\Debug\SQL_TESTDAL.pdb
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\bin\Debug\SQL_TESTDAL.dll.config
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\obj\Debug\SQL_TESTBL.csproj.AssemblyReference.cache
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\obj\Debug\SQL_TESTBL.csproj.CopyComplete
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\obj\Debug\SQL_TESTBL.dll
+C:\Users\mAnoL\Downloads\temp\thesis\test\SQL_TESTBL\obj\Debug\SQL_TESTBL.pdb

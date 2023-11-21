@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SQL_TEST" Class="SQL_TESTDataClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost;Initial Catalog=SQL_TEST;Integrated Security=True" SettingsObjectName="SQL_TESTDAL.Properties.Settings" SettingsPropertyName="SQL_TESTConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.SearchProductByID" Method="SearchProductByID">
+    <Parameter Name="ProdID" Parameter="prodID" Type="System.Int32" DbType="Int" />
+    <ElementType Name="SearchProductByIDResult">
+      <Column Name="ProdID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ProdName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cost" Type="System.Decimal" DbType="Decimal(8,2)" CanBeNull="true" />
+      <Column Name="Qty" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.AddTransactions" Method="AddTransactions">
+    <Parameter Name="ProdName" Parameter="prodName" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Cost" Parameter="cost" Type="System.Decimal" DbType="Decimal(8,2)" />
+    <Parameter Name="Qty" Parameter="qty" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
